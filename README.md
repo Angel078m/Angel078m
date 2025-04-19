@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A Passionate Data Scientist Student From Dominican Republic</h3>
 
-- 🔭 I’m currently working on **Finishing Data Science course**
+- 🔭 I recently completed my **Data Science course**
 
-- 🌱 I’m currently learning **Applied Modeling at Bloomtech Institute**
+- 🌱 Learned and used **Applied Modeling at Bloomtech Institute**
 
 - 👯 I’m looking to collaborate on **Data Engineering projects**
 
